@@ -5,6 +5,8 @@ This project showcases an interactive Power BI dashboard built for AtliQ Hardwar
 
 The dashboard provides a 360° business view, highlighting benchmarks, performance trends, and potential risks such as forecast errors and inventory issues.
 
+**FOR LIVE INTERACTIVE DASBOARD VIEW**: https://app.powerbi.com/reportEmbed?reportId=dc1df720-be48-4c16-a73d-11f04061bcf4&autoAuth=true&ctid=0193972e-5b25-4fa2-8c6c-e1e779e3497d
+
 **🎯 Project Goals**
 
 Build a unified dashboard for multiple stakeholders.
